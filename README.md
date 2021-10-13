@@ -1,6 +1,6 @@
 ### Hello, I'm Diffelentor
 
-[<img align="right" width="300" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+<img align="right" width="300" alt="🦑" src="https://count.getloli.com/get/@:Diffelentor?theme=moebooru-h">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Diffelentor.readme)
 
