@@ -1,4 +1,4 @@
-### 你好，我是Diffelentor
+### Hello, I'm Diffelentor
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Diffelentor.readme)
 
@@ -8,13 +8,7 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/DIffelentor?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Diffelentor?template=classic&config.timezone=Asia%2FShanghai)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diffelentor&repo=Diffelentor" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diffelentor&repo=SCU-notes-homework" />
-</a>
 
-持续更新中...
+Continue......
