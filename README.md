@@ -1,4 +1,6 @@
-### 你好，我是Diffelentor
+### Hello, I'm Diffelentor
+
+[<img align="right" width="300" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Diffelentor.readme)
 
@@ -8,13 +10,9 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/DIffelentor?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Diffelentor?template=classic&config.timezone=Asia%2FShanghai)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diffelentor&repo=Diffelentor" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Diffelentor&repo=SCU-notes-homework" />
-</a>
 
-持续更新中...
+[![](https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png)](#)
+
+Continue......
