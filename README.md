@@ -1,6 +1,8 @@
 ### Hello, I'm Diffelentor
 
-![](https://visitor-badge.glitch.me/badge?page_id=Diffelentor.readme)<img align="right" width="300" alt="🦑" src="https://count.getloli.com/get/@:Diffelentor?theme=moebooru-h">
+<img align="right" width="130" alt="🦑" src="https://count.getloli.com/get/@:Diffelentor?theme=moebooru-h">
+
+![](https://visitor-badge.glitch.me/badge?page_id=Diffelentor.readme)
 
 ![Diffelentor's Github stats](https://github-readme-stats.vercel.app/api?username=Diffelentor&show_icons=true)[![Diffelentor's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Diffelentor&layout=compact)](https://github.com/Diffelentor/github-readme-stats)
 
